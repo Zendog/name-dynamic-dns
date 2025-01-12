@@ -1,3 +1,10 @@
+
+## Home Screen Link
+
+You can access the dynamic DNS project from the following link:
+
+[Name Dynamic DNS](https://github.com/aaronjdale/name-dynamic-dns)
+
 # Name.com Auto DNS Updater
 
 DynDNS forced a transition for my domain to Name.com. Name.com apparently doesn't support dynamic DNS updates, however, provide an API to do it.
